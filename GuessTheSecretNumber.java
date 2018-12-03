@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Homework {
+public class GuessTheSecretNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
