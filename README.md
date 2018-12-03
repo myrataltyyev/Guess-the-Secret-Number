@@ -1,2 +1,2 @@
 # Guess-the-Secret-Number
-Homework of "Introduction to Java I"
+"Introduction to Java I" course homework
